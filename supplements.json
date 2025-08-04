@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Vitamin D3",
+    "deficiency_symptoms": ["fatigue", "bone pain", "low sun exposure", "frequent colds"],
+    "recommendation": "2000 IU daily with meals containing fat"
+  },
+  {
+    "id": 2,
+    "name": "Vitamin B12",
+    "deficiency_symptoms": ["tingling in hands", "memory issues", "vegan diet", "fatigue"],
+    "recommendation": "1000 mcg methylcobalamin daily"
+  },
+  {
+    "id": 3,
+    "name": "Iron",
+    "deficiency_symptoms": ["pale skin", "fatigue", "shortness of breath", "brittle nails"],
+    "recommendation": "18 mg iron bisglycinate daily with vitamin C"
+  },
+  {
+    "id": 4,
+    "name": "Magnesium",
+    "deficiency_symptoms": ["muscle cramps", "poor sleep", "anxiety", "constipation"],
+    "recommendation": "200–400 mg magnesium glycinate before bed"
+  },
+  {
+    "id": 5,
+    "name": "Omega-3 (Fish Oil)",
+    "deficiency_symptoms": ["dry skin", "brain fog", "joint pain", "low fish intake"],
+    "recommendation": "1000 mg EPA+DHA daily"
+  },
+  {
+    "id": 6,
+    "name": "Zinc",
+    "deficiency_symptoms": ["frequent colds", "hair loss", "slow wound healing", "loss of taste"],
+    "recommendation": "15–25 mg zinc picolinate daily"
+  },
+  {
+    "id": 7,
+    "name": "Vitamin C",
+    "deficiency_symptoms": ["bleeding gums", "frequent colds", "slow healing", "fatigue"],
+    "recommendation": "500 mg daily, can split into two doses"
+  },
+  {
+    "id": 8,
+    "name": "Calcium",
+    "deficiency_symptoms": ["brittle nails", "bone fractures", "muscle spasms", "tingling"],
+    "recommendation": "1000 mg calcium citrate daily in divided doses"
+  },
+  {
+    "id": 9,
+    "name": "Probiotics",
+    "deficiency_symptoms": ["bloating", "digestive discomfort", "frequent antibiotics use"],
+    "recommendation": "10–20 billion CFU probiotic blend daily"
+  },
+  {
+    "id": 10,
+    "name": "Ashwagandha",
+    "deficiency_symptoms": ["high stress", "poor sleep", "anxiety"],
+    "recommendation": "300–500 mg root extract twice daily"
+  },
+  {
+    "id": 11,
+    "name": "CoQ10",
+    "deficiency_symptoms": ["fatigue", "muscle weakness", "on statin medications"],
+    "recommendation": "100–200 mg ubiquinol daily with food"
+  },
+  {
+    "id": 12,
+    "name": "Iodine",
+    "deficiency_symptoms": ["fatigue", "cold intolerance", "weight gain", "swollen neck"],
+    "recommendation": "150 mcg daily (from potassium iodide or kelp)"
+  },
+  {
+    "id": 13,
+    "name": "Selenium",
+    "deficiency_symptoms": ["thyroid issues", "hair loss", "brittle nails"],
+    "recommendation": "100–200 mcg selenomethionine daily"
+  },
+  {
+    "id": 14,
+    "name": "Vitamin K2",
+    "deficiency_symptoms": ["bruising easily", "bone weakness"],
+    "recommendation": "100 mcg MK-7 daily with Vitamin D"
+  },
+  {
+    "id": 15,
+    "name": "Folate (B9)",
+    "deficiency_symptoms": ["fatigue", "mouth sores", "anemia", "pregnancy"],
+    "recommendation": "400–800 mcg methylfolate daily"
+  }
+]
